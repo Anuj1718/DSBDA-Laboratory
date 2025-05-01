@@ -38,7 +38,7 @@ All labs are implemented in **Python** using libraries such as `pandas`, `numpy`
 
 ```bash
 git clone https://github.com/Anuj1718/DSBDA-Laboratory.git
-```
+
 
 ### 2. Install dependencies
 
