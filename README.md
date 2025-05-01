@@ -26,13 +26,13 @@ This project is designed for:
 ## **How to Use**
 ### 1. **Clone this repository:**
    To clone the repository to your local machine, use the following command:
-   ```bash
+
    git clone https://github.com/Anuj1718/DSBDA-Laboratory.git
 
 
 ### 2. **Install Required Libraries:**
    Make sure you have **Python** installed, then install the required libraries using:
-   ```bash
+
    pip install pandas numpy matplotlib scikit-learn
    ```
 
