@@ -60,11 +60,3 @@ jupyter notebook
 📧 anujdhole17@gmail.com  
 📍 Pune, Maharashtra, India
 
----
-
-## 📜 License
-
-This project is licensed under the MIT License.
-```
-
----
