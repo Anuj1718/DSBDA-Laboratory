@@ -1,34 +1,34 @@
+Got it! Here's your clean and professional `README.md` content **without the folder structure section**:
 
+---
 
 ```markdown
 # DSBDA Laboratory – 3rd Year Computer Engineering (SPPU, Sem 2)
 
 ## 📘 About
 
-This repository contains Jupyter Notebook (`.ipynb`) files and necessary datasets for the **Data Science and Big Data Analytics (DSBDA)** laboratory, part of the 3rd Year **Computer Engineering** curriculum at **Savitribai Phule Pune University (SPPU)**, Semester 2.
+This repository contains Jupyter Notebook (`.ipynb`) files and required datasets for the **Data Science and Big Data Analytics (DSBDA)** laboratory. It is part of the 3rd Year **Computer Engineering** curriculum at **Savitribai Phule Pune University (SPPU)**, Semester 2.
 
-The repository covers:
+The repository includes practical implementations of:
 
-- 🔹 Data preprocessing
-- 🔹 Data visualization
-- 🔹 Statistical analysis
-- 🔹 Machine learning model implementation
-- 🔹 Big data handling
+- 🔹 Data preprocessing  
+- 🔹 Data visualization  
+- 🔹 Statistical analysis  
+- 🔹 Machine learning models  
+- 🔹 Big data handling  
 
-All implementations use **Python** with libraries like `pandas`, `numpy`, `matplotlib`, and `scikit-learn`.
+All labs are implemented in **Python** using libraries such as `pandas`, `numpy`, `matplotlib`, and `scikit-learn`.
 
 ---
 
 ## 🛠️ Technologies Used
 
-- Python 3.x
-- Jupyter Notebook
-- pandas
-- numpy
-- matplotlib
-- scikit-learn
-
----
+- Python 3.x  
+- Jupyter Notebook  
+- pandas  
+- numpy  
+- matplotlib  
+- scikit-learn  
 
 ---
 
@@ -46,7 +46,7 @@ git clone https://github.com/Anuj1718/DSBDA-Laboratory.git
 pip install pandas numpy matplotlib scikit-learn
 ```
 
-### 3. Open notebooks
+### 3. Open the notebooks
 
 ```bash
 jupyter notebook
@@ -64,10 +64,7 @@ jupyter notebook
 
 ## 📜 License
 
-This repository is licensed under the MIT License.
+This project is licensed under the MIT License.
 ```
 
 ---
-
-
-
