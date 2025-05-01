@@ -1,4 +1,3 @@
-```markdown
 # **DSBDA Laboratory - 3rd Year Computer Engineering, SPPU Sem 2**
 
 ## **Project Title**
@@ -29,7 +28,7 @@ This project is designed for:
    To clone the repository to your local machine, use the following command:
    ```bash
    git clone https://github.com/Anuj1718/DSBDA-Laboratory.git
-   ```
+
 
 ### 2. **Install Required Libraries:**
    Make sure you have **Python** installed, then install the required libraries using:
