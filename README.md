@@ -38,7 +38,7 @@ All labs are implemented in **Python** using libraries such as `pandas`, `numpy`
 
 ```bash
 git clone https://github.com/Anuj1718/DSBDA-Laboratory.git
-
+```
 
 ### 2. Install dependencies
 
@@ -46,7 +46,7 @@ git clone https://github.com/Anuj1718/DSBDA-Laboratory.git
 pip install pandas numpy matplotlib scikit-learn
 ```
 
-### 3. Open the notebooks
+### 3. Launch Jupyter Notebook
 
 ```bash
 jupyter notebook
@@ -62,4 +62,9 @@ jupyter notebook
 
 ---
 
+## 📜 License
 
+This project is licensed under the MIT License.
+```
+
+---
