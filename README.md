@@ -1,72 +1,73 @@
-DSBDA Laboratory - 3rd Year Computer Engineering, SPPU Sem 2
-Project Title
-Data Science and Big Data Analytics (DSBDA) Laboratory - 3rd Year Computer Engineering, SPPU Sem 2
 
-Description
-This repository contains the Jupyter Notebook files and datasets for the Data Science and Big Data Analytics (DSBDA) subject, part of the 3rd Year, Semester 2 curriculum for Computer Engineering at Savitribai Phule Pune University (SPPU).
 
-It includes practical implementations of:
+```markdown
+# DSBDA Laboratory – 3rd Year Computer Engineering (SPPU, Sem 2)
 
-Data preprocessing
+## 📘 About
 
-Data visualization
+This repository contains Jupyter Notebook (`.ipynb`) files and necessary datasets for the **Data Science and Big Data Analytics (DSBDA)** laboratory, part of the 3rd Year **Computer Engineering** curriculum at **Savitribai Phule Pune University (SPPU)**, Semester 2.
 
-Statistical analysis
+The repository covers:
 
-Machine learning models
+- 🔹 Data preprocessing
+- 🔹 Data visualization
+- 🔹 Statistical analysis
+- 🔹 Machine learning model implementation
+- 🔹 Big data handling
 
-Big data handling
+All implementations use **Python** with libraries like `pandas`, `numpy`, `matplotlib`, and `scikit-learn`.
 
-Implemented using Python and libraries like Pandas, NumPy, Matplotlib, and Scikit-learn.
+---
 
-Who Is This For?
-SPPU Computer Engineering students
+## 🛠️ Technologies Used
 
-Learners of data science fundamentals
+- Python 3.x
+- Jupyter Notebook
+- pandas
+- numpy
+- matplotlib
+- scikit-learn
 
-Anyone practicing ML and data analysis in Python
+---
 
-Technologies Used
-Python
+---
 
-Jupyter Notebooks
+## 🚀 Getting Started
 
-Pandas
+### 1. Clone this repository
 
-NumPy
-
-Matplotlib
-
-Scikit-learn
-
-How to Use
-1. Clone the repository
-bash
-Copy code
+```bash
 git clone https://github.com/Anuj1718/DSBDA-Laboratory.git
-2. Install required libraries
-nginx
-Copy code
-pip install pandas numpy matplotlib scikit-learn
-3. Open notebooks
-nginx
-Copy code
-jupyter notebook
-Folder Structure
-markdown
-Copy code
-/DSBDA-Laboratory
-  /Lab_1
-    notebook1.ipynb
-    dataset1.csv
-  /Lab_2
-    notebook2.ipynb
-    dataset2.csv
-  ...
-License
-This project is licensed under the MIT License.
+```
 
-Contact
-Anuj Dhole
-📧 anujdhole17@gmail.com
+### 2. Install dependencies
+
+```bash
+pip install pandas numpy matplotlib scikit-learn
+```
+
+### 3. Open notebooks
+
+```bash
+jupyter notebook
+```
+
+---
+
+## 👨‍💻 Author
+
+**Anuj Dhole**  
+📧 anujdhole17@gmail.com  
+📍 Pune, Maharashtra, India
+
+---
+
+## 📜 License
+
+This repository is licensed under the MIT License.
+```
+
+---
+
+
 
