@@ -33,7 +33,7 @@ All labs are implemented in **Python** using libraries such as `pandas`, `numpy`
 ---
 
 ## 🚀 Getting Started
-
+```
 ### 1. Clone this repository
 
 ```bash
