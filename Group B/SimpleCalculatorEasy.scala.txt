@@ -1,0 +1,30 @@
+// SimpleCalculatorEasy.scala
+
+object SimpleCalculatorEasy {
+  def main(args: Array[String]): Unit = {
+    print("Enter first number: ")
+    val a = scala.io.StdIn.readDouble()
+
+    print("Enter an operator (+, -, *, /): ")
+    val op = scala.io.StdIn.readChar()
+
+    print("Enter second number: ")
+    val b = scala.io.StdIn.readDouble()
+
+    val result = op match {
+      case '+' => a + b
+      case '-' => a - b
+      case '*' => a * b
+      case '/' =>
+        if (b != 0) a / b else {
+          println("Cannot divide by zero")
+          return
+        }
+      case _ =>
+        println("Invalid operator")
+        return
+    }
+
+    println(s"Result: $a $op $b = $result")
+  }
+}
